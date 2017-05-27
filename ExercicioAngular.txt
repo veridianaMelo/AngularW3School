@@ -1,2 +1,4 @@
 Exercicios feitos W3School p aprender Angular
 Recife, 26 de maio de 2017
+
+[Inserindo Exercícios no Git]
